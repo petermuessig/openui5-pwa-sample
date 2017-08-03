@@ -1,6 +1,5 @@
-const CACHE_NAME = 'pwa-ui5-todo-v1.0.00';
+const CACHE_NAME = 'pwa-ui5-todo-v1.0.01';
 const RESOURCES_TO_PRELOAD = [
-	'/',
 	'index.html',
 	'todo-app.js',
 	'favicon.ico',
